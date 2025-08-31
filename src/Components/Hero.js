@@ -15,7 +15,7 @@ const Hero = () => {
                             }}
                         />
                     </h1>
-      <p>I'm B.Tech Student<span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p>
+      <p>I'm a Developer<span class="typed" data-typed-items="Designer, Developer, Freelancer, Photographer"></span></p>
     </div>
   </section>
 
